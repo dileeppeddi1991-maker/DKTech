@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="da30a8e59308831029dcf21bdd03d6a3" extends="sn_creatorstudio_task" label="syncup Request" max_length="40" name="x_129112_syncup_request" type="collection">
+        <element label="Instance Name" max_length="40" name="instance_name" type="string"/>
+        <element label="URL" max_length="40" name="url" type="string"/>
+    </element>
+</database>

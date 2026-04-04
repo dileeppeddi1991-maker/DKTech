@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">c8406ce59308831029dcf21bdd03d6c0</canvas>
+        <component display_value="List">7ff373544303121093711347efb8f23c</component>
+        <component_props>{"dataSources":[{"allowRealTime":true,"dataCategories":["trend","group","simple"],"filterQuery":"active=true^active=true","id":"ac40ace59308831029dcf21bdd03d649","isDatabaseView":false,"preferredVisualizations":[],"sourceType":"table","tableOrViewName":"x_129112_syncup_request"}],"additionalGroupByConfig":[],"allowAdditionalGroupByPerMetric":false,"componentId":"","contextMenuActions":[],"description":"","emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":false,"filterConfigurations":"@state.parFilters","headingLevel":2,"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==","numberFormat":{"customFormat":false}}],"showAdditionalGroupBySelector":false,"showFilterIcon":true,"showHeaderSeparator":false,"showHeader":true,"showLoadingIndicator":false,"wrapTitle":false,"parFilter":"","parFilterConfig":[],"allowListPagination":true,"columnLimit":0,"limit":10,"maxCharLimit":4000,"columnPreferenceKey":"","bareBorder":false,"wrapCellContent":"useLineBreaksUserPref","showPersonalization":true,"hideDotwalk":false,"showColumnReorder":true,"showColumnGrouping":true,"showColumnResizing":true,"showColumnFiltering":true,"showColumnSorting":true,"followFilters":true,"groupByField":"","showLinks":true,"showViewAll":true,"showInlineEditing":true,"table":"x_129112_syncup_request","headerTitle":"All Active Tasks","columns":""}</component_props>
+        <h>20</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-04 07:24:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1c406ce59308831029dcf21bdd03d6d1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="syncup" source="x_129112_syncup">0230a8e59308831029dcf21bdd03d666</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="syncup">0230a8e59308831029dcf21bdd03d666</sys_scope>
+        <sys_update_name>par_dashboard_widget_1c406ce59308831029dcf21bdd03d6d1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-04-04 07:24:07</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>15</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="syncup">0230a8e59308831029dcf21bdd03d666</application>
+        <file_path/>
+        <instance_id>90cdbaef3bcf6ad0a80ce0bf55e45a91</instance_id>
+        <instance_name>dev352784</instance_name>
+        <name>par_dashboard_widget_1c406ce59308831029dcf21bdd03d6d1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">c8406ce59308831029dcf21bdd03d6c0</canvas><component display_value="List">7ff373544303121093711347efb8f23c</component><component_props>{"dataSources":[{"allowRealTime":true,"dataCategories":["trend","group","simple"],"filterQuery":"active=true^active=true","id":"ac40ace59308831029dcf21bdd03d649","isDatabaseView":false,"preferredVisualizations":[],"sourceType":"table","tableOrViewName":"x_129112_syncup_request"}],"additionalGroupByConfig":[],"allowAdditionalGroupByPerMetric":false,"componentId":"","contextMenuActions":[],"description":"","emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":false,"filterConfigurations":"@state.parFilters","headingLevel":2,"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==","numberFormat":{"customFormat":false}}],"showAdditionalGroupBySelector":false,"showFilterIcon":true,"showHeaderSeparator":false,"showHeader":true,"showLoadingIndicator":false,"wrapTitle":false,"parFilter":"","parFilterConfig":[],"allowListPagination":true,"columnLimit":0,"limit":10,"maxCharLimit":4000,"columnPreferenceKey":"","bareBorder":false,"wrapCellContent":"useLineBreaksUserPref","showPersonalization":true,"hideDotwalk":false,"showColumnReorder":true,"showColumnGrouping":true,"showColumnResizing":true,"showColumnFiltering":true,"showColumnSorting":true,"followFilters":true,"groupByField":"","showLinks":true,"showViewAll":true,"showInlineEditing":true,"table":"x_129112_syncup_request","headerTitle":"All Active Tasks","columns":""}</component_props><h>20</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-04 07:24:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1c406ce59308831029dcf21bdd03d6d1</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="syncup" source="x_129112_syncup">0230a8e59308831029dcf21bdd03d666</sys_package><sys_policy/><sys_scope display_value="syncup">0230a8e59308831029dcf21bdd03d666</sys_scope><sys_update_name>par_dashboard_widget_1c406ce59308831029dcf21bdd03d6d1</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-04-04 07:24:07</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>15</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-264944408</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c630a8e59308831029dcf21bdd03d668</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2026-04-04 07:24:07</sys_created_on>
+        <sys_id>6c40ace59308831029dcf21bdd03d64e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d5760b0240000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-04-04 07:24:07</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>e840ace545088310c0806177403d294d</update_guid>
+        <update_guid_history>e840ace545088310c0806177403d294d:-264944408,d8406ce5b40883102e82a7db9179c6d3:2091030349</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">3040ace59308831029dcf21bdd03d691</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2026-04-04 07:24:08</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>a825f5bc9e7643d2907e57f6e7c7fa29</sys_id>
+        <sys_metadata>1c406ce59308831029dcf21bdd03d6d1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="syncup" source="x_129112_syncup">0230a8e59308831029dcf21bdd03d666</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="syncup">0230a8e59308831029dcf21bdd03d666</sys_scope>
+        <sys_scope_delete display_value="">488e9820e0504240b638aa1296938840</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_1c406ce59308831029dcf21bdd03d6d1</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_1c406ce59308831029dcf21bdd03d6d1">6c40ace59308831029dcf21bdd03d64e</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-04-04 07:24:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
