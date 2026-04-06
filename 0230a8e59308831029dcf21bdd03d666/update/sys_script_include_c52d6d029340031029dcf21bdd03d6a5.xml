@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_129112_syncup.DileepTest</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>DileepTest</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var DileepTest = Class.create();
+DileepTest.prototype = {
+    initialize: function() {
+
+		//comandajsasfakasgd
+    },
+
+    type: 'DileepTest'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-06 02:18:01</sys_created_on>
+        <sys_id>c52d6d029340031029dcf21bdd03d6a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DileepTest</sys_name>
+        <sys_package display_value="syncup- Common Utils" source="x_129112_syncup">0230a8e59308831029dcf21bdd03d666</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="syncup- Common Utils">0230a8e59308831029dcf21bdd03d666</sys_scope>
+        <sys_update_name>sys_script_include_c52d6d029340031029dcf21bdd03d6a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-06 02:18:01</sys_updated_on>
+    </sys_script_include>
+</record_update>
