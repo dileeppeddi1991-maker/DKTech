@@ -26,8 +26,10 @@
    //Type appropriate comment here, and begin script below
    if(newValue != 'abc' || newValue != 'CDE' ){
     alert('the value should be abc or CDE');
-   if(newValue != 'xyz'){
-    alert('this value should be xyz');
+   }
+
+    if(newValue != 'QWWERTY'){
+    alert('this value should be QWERTY');
    }
 }]]></script>
         <sys_class_name>catalog_script_client</sys_class_name>
@@ -36,7 +38,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d28160e99308831029dcf21bdd03d6bb</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>name validation</sys_name>
         <sys_overrides/>
         <sys_package display_value="syncup- Common Utils" source="x_129112_syncup">0230a8e59308831029dcf21bdd03d666</sys_package>
@@ -44,13 +46,7 @@
         <sys_scope display_value="syncup- Common Utils">0230a8e59308831029dcf21bdd03d666</sys_scope>
         <sys_update_name>catalog_script_client_d28160e99308831029dcf21bdd03d6bb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-04 08:03:55</sys_updated_on>
-        <sys_package display_value="syncup - Common DKT" source="x_129112_syncup">0230a8e59308831029dcf21bdd03d666</sys_package>
-        <sys_policy/>
-        <sys_scope display_value="syncup - Common DKT">0230a8e59308831029dcf21bdd03d666</sys_scope>
-        <sys_update_name>catalog_script_client_d28160e99308831029dcf21bdd03d6bb</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-04 08:13:42</sys_updated_on>
+        <sys_updated_on>2026-04-10 08:03:31</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>10</ui_type>
